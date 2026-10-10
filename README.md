@@ -28,22 +28,28 @@ An educational website where users can explore bicycle types, components, materi
 - PostgreSQL database integration
 - Public deployment using Railway
 
-## 📌 Upcoming Projects
+## 🚀 Upcoming Projects & Future Plans
 
-### ☕ Java Task Management Application
+### 🎮 2D Java Game
 **Status:** Planned
 
-A task-management application for creating, organising and tracking daily tasks.
+Planning to develop an interactive 2D game using Java to strengthen my programming, object-oriented design, game development and problem-solving skills.
 
-### 💰 Personal Finance Tracker
-**Status:** Planned
+**Technologies to Explore:** Java, JavaFX, Git
 
-An application for tracking income, expenses and monthly spending.
+### 🚲 VeloVerse 3D — Interactive Bicycle Education Platform
+**Status:** Planned | Major Future Upgrade
 
-### 🤖 AI Study Assistant
-**Status:** Future Goal
+Planning to expand [VeloVerse](https://veloverse.site) from a 2D educational website into an interactive 3D learning experience.
 
-An AI-powered application to help students organise notes, revise topics and study more effectively.
+**Planned Features:**
+- Interactive 3D bicycle models with 360° rotation
+- Clickable bicycle components with detailed explanations
+- Realistic animations of chains, gears and braking systems
+- Interactive exploration of bicycle materials and mechanics
+- Integration with the existing VeloVerse website
+
+**Technologies to Explore:** Three.js, JavaScript, WebGL, Blender
 
 ## 🎯 Current Goals
 
