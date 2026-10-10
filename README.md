@@ -1,21 +1,21 @@
 
 # Hi, I'm Aung Khant Thaw 👋
 
-🎓 BSc Computer Science Student at Queen's University Belfast
+BSc Computer Science Student at Queen's University Belfast
 
-💻 Interested in Software Engineering, Java Development and Artificial Intelligence.
+Interested in Software Engineering, Java Development and Artificial Intelligence.
 
-🚀 Currently developing my programming skills through real-world projects.
+Currently developing my programming skills through real-world projects.
 
-## 🛠️ Current Tech Stack
+## Current Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode)
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### 🚲 VeloVerse — Bicycle Education Platform
 
-🌐 **Live Website:** https://veloverse.site
+**Live Website:** https://veloverse.site
 
 **Tech Stack:** Java, Spring Boot, Thymeleaf, PostgreSQL, Railway
 
@@ -28,16 +28,16 @@ An educational website where users can explore bicycle types, components, materi
 - PostgreSQL database integration
 - Public deployment using Railway
 
-## 🚀 Upcoming Projects & Future Plans
+##  Upcoming Projects & Future Plans
 
-### 🎮 2D Java Game
+###  2D Java Game
 **Status:** Planned
 
 Planning to develop an interactive 2D game using Java to strengthen my programming, object-oriented design, game development and problem-solving skills.
 
 **Technologies to Explore:** Java, JavaFX, Git
 
-### 🚲 VeloVerse 3D — Interactive Bicycle Education Platform
+### VeloVerse 3D — Interactive Bicycle Education Platform
 **Status:** Planned | Major Future Upgrade
 
 Planning to expand [VeloVerse](https://veloverse.site) from a 2D educational website into an interactive 3D learning experience.
@@ -51,7 +51,7 @@ Planning to expand [VeloVerse](https://veloverse.site) from a 2D educational web
 
 **Technologies to Explore:** Three.js, JavaScript, WebGL, Blender
 
-## 🎯 Current Goals
+## Current Goals
 
 - Strengthen Java and object-oriented programming skills
 - Learn software engineering and testing practices
