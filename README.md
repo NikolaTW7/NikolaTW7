@@ -13,15 +13,17 @@ Currently seeking **2027 Software Engineering Placement Opportunities**.
 
 ## Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode,arduino)
 
 **Programming Languages:** Java, C++, Python, JavaScript, SQL, HTML, CSS
 
 **Frameworks & Technologies:** Spring Boot, Thymeleaf, PostgreSQL, Chart.js
 
-**Development Tools:** Git, GitHub, VS Code, Railway
+**Development Tools & Platforms:** Git, GitHub, VS Code, Railway
 
-**Currently Learning:** Software Engineering, Object-Oriented Programming, Software Testing, Robotics and CAD
+**Robotics & Engineering (Learning):** Arduino, Computer-Aided Design (CAD), Robotics Fundamentals
+
+**Currently Learning:** Software Engineering, Object-Oriented Programming, Software Testing, Robotics, Electronics and CAD
 
 ---
 
@@ -32,12 +34,14 @@ Currently seeking **2027 Software Engineering Placement Opportunities**.
 **Status:** Live | Ongoing Development
 
 **Website Links:**
-- Main Website: https://veloverse.site
-- Railway Deployment: https://veloverse.up.railway.app
+- **Main Website:** https://veloverse.site
+- **Alternative URL:** https://veloverse.up.railway.app
 
-**Tech Stack:** Java, Spring Boot, Thymeleaf, PostgreSQL, Railway
+**Tech Stack:** Java, Spring Boot, Thymeleaf, PostgreSQL, HTML, CSS
 
-VeloVerse is a full-stack educational web application I independently developed to help users understand bicycles, their components, materials and technologies.
+**Hosting Platform:** Railway
+
+VeloVerse is a full-stack educational web application I independently developed to help people learn about bicycles, their components, materials and technologies.
 
 **Features:**
 - Bicycle types, brands and model collections
@@ -59,7 +63,7 @@ VeloVerse is a full-stack educational web application I independently developed 
 
 **Module:** CSC1034 — Data Driven Systems
 
-**Website:** https://haung02.webhosting1.eeecs.qub.ac.uk/
+**Project Website:** https://haung02.webhosting1.eeecs.qub.ac.uk/
 
 **Technologies:** SQL, HTML, CSS, JavaScript, Chart.js
 
@@ -69,8 +73,10 @@ Collaborated in a five-person university team to develop a web application for m
 - Developed three SQL reports using JOINs, GROUP BY and aggregate functions
 - Created a database VIEW for reporting
 - Built interactive data visualisations using Chart.js
-- Integrated database results with dynamic charts
+- Connected database results to dynamic charts
 - Resolved SQL query issues and improved data handling
+
+This project strengthened my knowledge of relational databases, web development, debugging and teamwork.
 
 ---
 
@@ -84,6 +90,8 @@ Collaborated in a five-person university team to develop a web application for m
 
 Collaborating with five other students to design an offline, turn-based educational board game focused on climate change and environmental decision-making.
 
+The game is designed for six players and aims to combine environmental education with interactive gameplay.
+
 **My Contributions:**
 - Software Requirements Specification (SRS)
 - Functional and non-functional requirements
@@ -91,7 +99,7 @@ Collaborating with five other students to design an offline, turn-based educatio
 - Use-case design
 - Game rules and project documentation
 
-The game is designed for six players and is currently in the design and documentation stage.
+**Current Stage:** Software design and documentation.
 
 ---
 
@@ -135,13 +143,14 @@ Planning to develop an interactive 2D game using Java to strengthen my knowledge
 
 **Status:** Planned | Major Future Upgrade
 
-Planning to transform VeloVerse into a more advanced interactive educational platform using 3D models and animations.
+Planning to transform VeloVerse into an advanced interactive educational platform using 3D models and animations.
 
 **Planned Features:**
 - Interactive 3D bicycle models with 360° rotation
-- Clickable bicycle components with explanations
-- Animations of chains, gears and braking systems
-- Visual exploration of materials and mechanics
+- Clickable components with detailed explanations
+- Animated chains, gears and braking mechanisms
+- Visual exploration of bicycle materials
+- Interactive mechanical demonstrations
 - Integration with the existing VeloVerse application
 
 **Technologies to Explore:** Three.js, WebGL, Blender, JavaScript
@@ -154,9 +163,9 @@ Planning to transform VeloVerse into a more advanced interactive educational pla
 
 **Target:** Develop an initial working prototype within one year.
 
-One of my biggest ambitions is to build my own intelligent AI assistant, inspired by J.A.R.V.I.S. from Iron Man.
+One of my biggest ambitions is to create my own intelligent AI assistant, inspired by J.A.R.V.I.S. from Iron Man.
 
-My goal is to begin with a practical AI assistant and gradually develop more advanced capabilities.
+My goal is to begin with a practical AI assistant and gradually develop more advanced capabilities as my knowledge and experience grow.
 
 **Planned Capabilities:**
 - Natural language conversations
@@ -170,7 +179,26 @@ My goal is to begin with a practical AI assistant and gradually develop more adv
 
 **Technologies to Explore:** Python, AI APIs, Natural Language Processing, Speech Recognition, Machine Learning
 
-**Long-Term Vision:** Integrate artificial intelligence with robotics and intelligent physical systems.
+**Long-Term Vision:**
+
+Explore how advanced AI assistants could be integrated with robotics, automation and intelligent physical systems.
+
+---
+
+## Robotics & Engineering Interests
+
+Alongside computer science, I am exploring robotics and engineering through university activities and independent learning.
+
+**Areas of Interest:**
+- Arduino and microcontroller programming
+- Robotics and automation
+- Computer-Aided Design (CAD)
+- Electronics and embedded systems
+- AI-powered robotics
+- Mechanical and electrical engineering fundamentals
+- Intelligent machines and autonomous systems
+
+My goal is to gradually combine software engineering, artificial intelligence and physical engineering to develop intelligent robotic systems.
 
 ---
 
@@ -178,10 +206,11 @@ My goal is to begin with a practical AI assistant and gradually develop more adv
 
 - Strengthen Java, C++ and Python programming skills
 - Improve software engineering and system design knowledge
+- Learn Arduino and microcontroller programming
 - Gain practical experience with robotics, electronics and CAD
 - Develop artificial intelligence and machine learning knowledge
-- Build more real-world applications
 - Improve mathematics and problem-solving skills
+- Build more real-world applications
 - Secure a software engineering placement in 2027
 - Build the foundation for a future career in robotics and AI engineering
 
@@ -202,6 +231,8 @@ I'm especially interested in:
 - Planetary Defence and Space Hazard Detection
 - Scientific Innovation and Emerging Technologies
 
+Inspired by the possibilities of future science and engineering, I hope to contribute to technologies that help humanity solve challenges beyond our current capabilities.
+
 I believe humanity still has so much to discover, build and achieve, and I want to contribute to that future.
 
 ---
@@ -210,9 +241,9 @@ I believe humanity still has so much to discover, build and achieve, and I want 
 
 **LinkedIn:** [Aung Khant Thaw](https://www.linkedin.com/in/aungkhantthaw/)
 
-**VeloVerse:** [veloverse.site](https://veloverse.site)
+**VeloVerse — Main Website:** [veloverse.site](https://veloverse.site)
 
-**Railway Deployment:** [veloverse.up.railway.app](https://veloverse.up.railway.app)
+**VeloVerse — Alternative URL:** [veloverse.up.railway.app](https://veloverse.up.railway.app)
 
 **GitHub:** [NikolaTW7](https://github.com/NikolaTW7)
 
