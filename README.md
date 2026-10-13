@@ -13,7 +13,7 @@ Currently seeking **2027 Software Engineering Placement Opportunities**.
 
 ## Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode,arduino)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode,arduino,railway)
 
 **Programming Languages:** Java, C++, Python, JavaScript, SQL, HTML, CSS
 
