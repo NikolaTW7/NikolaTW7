@@ -1,252 +1,72 @@
-
 # Hi, I'm Aung Khant Thaw (Nikola)
 
-### Computer Science Student | Aspiring Robotics & AI Engineer
+I'm a second-year BSc Computer Science student at Queen's University Belfast, looking for a software engineering placement in 2027.
 
-I'm a second-year BSc Computer Science student at **Queen's University Belfast**, interested in Software Engineering, Artificial Intelligence, Robotics and Advanced Technologies.
+I build web applications and am learning about robotics and AI.
 
-I enjoy building software, exploring new technologies and turning ideas into real-world projects.
+## Technical skills
 
-Currently seeking **2027 Software Engineering Placement Opportunities**.
+![My skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode,arduino)
 
----
+- Languages: Java, C++, Python, JavaScript and SQL
+- Web development: HTML, CSS, Spring Boot, Thymeleaf and Chart.js
+- Database: PostgreSQL
+- Tools: Git, GitHub, VS Code and Railway
 
-## Technical Skills
+My current studies include object-oriented programming and software testing. I'm also learning Arduino programming, electronics and CAD.
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode,arduino)
+## VeloVerse
 
-**Programming Languages:** Java, C++, Python, JavaScript, SQL, HTML, CSS
+I independently built VeloVerse, a website for learning about bicycles. Users can browse bicycle types, brands and models, read about components and materials, and compare models.
 
-**Frameworks & Technologies:** Spring Boot, Thymeleaf, PostgreSQL, Chart.js
+The application uses Java, Spring Boot, Thymeleaf, PostgreSQL, HTML and CSS. It has a responsive layout and 84 passing automated tests. It's hosted on Railway, and development is ongoing.
 
-**Development Tools & Platforms:** Git, GitHub, VS Code, Railway
+[Visit VeloVerse](https://veloverse.site) · [Alternative address](https://veloverse.up.railway.app)
 
-**Robotics & Engineering (Learning):** Arduino, Computer-Aided Design (CAD), Robotics Fundamentals
+I plan to add 3D models that users can rotate and inspect. Selecting a component would explain how it works, with animations for mechanisms such as gears and brakes. I'm considering Three.js, WebGL and Blender for this upgrade.
 
-**Currently Learning:** Software Engineering, Object-Oriented Programming, Software Testing, Robotics, Electronics and CAD
+## TechRefurb
 
----
+Our team of five built TechRefurb for CSC1034: Data Driven Systems. It's a completed university project for managing donated technology and equipment allocation.
 
-## Featured Projects
+I wrote three SQL reports using JOINs, GROUP BY and aggregate functions, and created a database view for reporting. I also connected database results to interactive Chart.js charts and fixed SQL query and data-handling issues.
 
-### VeloVerse — Full-Stack Bicycle Education Platform
+The project uses SQL, HTML, CSS, JavaScript and Chart.js.
 
-**Status:** Live | Ongoing Development
+[View TechRefurb](https://haung02.webhosting1.eeecs.qub.ac.uk/)
 
-**Website Links:**
-- **Main Website:** https://veloverse.site
-- **Alternative URL:** https://veloverse.up.railway.app
+## Project XX
 
-**Tech Stack:** Java, Spring Boot, Thymeleaf, PostgreSQL, HTML, CSS
+I'm working with five other students on an educational board game about climate change for CSC2058: Software Engineering and Systems Development.
 
-**Hosting Platform:** Railway
+We're designing an offline, turn-based game for six players. The project is currently at the design and documentation stage, with Java as the planned implementation language.
 
-VeloVerse is a full-stack educational web application I independently developed to help people learn about bicycles, their components, materials and technologies.
+My contributions cover the software requirements specification, functional and non-functional requirements, use cases, game rules and project documentation.
 
-**Features:**
-- Bicycle types, brands and model collections
-- Educational information about bicycle components
-- Bicycle materials and their properties
-- Bicycle model comparison
-- Responsive website design
-- PostgreSQL database integration
-- 84 passing automated tests
-- Public deployment through Railway
+## C++ media player
 
-**Future Development:** Expand VeloVerse into an interactive 3D bicycle education platform.
+I'm developing a desktop media player to practise C++. Planned features include MP3 audio and MP4 video playback, file management and a desktop interface.
 
----
+The project is still in development, with testing and debugging included in the planned work.
 
-### TechRefurb — Technology Donation & Refurbishment System
+## Other project plans
 
-**Status:** Completed | University Team Project
+I'd like to build a 2D Java game to practise game loops, event handling, collision detection and object-oriented design. JavaFX is one option I'm considering for the interface.
 
-**Module:** CSC1034 — Data Driven Systems
+I'm also researching a personal AI assistant inspired by J.A.R.V.I.S. from Iron Man. My target is an initial working prototype within a year, using Python and AI APIs.
 
-**Project Website:** https://haung02.webhosting1.eeecs.qub.ac.uk/
+Planned capabilities include text and voice conversations, task automation, memory and application integration. I want permission checks before the assistant controls devices, along with checks on commands before execution. Longer term, I'd like to explore its use with robotic systems.
 
-**Technologies:** SQL, HTML, CSS, JavaScript, Chart.js
+## Interests and learning
 
-Collaborated in a five-person university team to develop a web application for managing donated technology and equipment allocation.
+I'm exploring robotics through university activities and independent study. I'm learning about microcontrollers and embedded systems, and want more practical experience with electronics and CAD.
 
-**My Contributions:**
-- Developed three SQL reports using JOINs, GROUP BY and aggregate functions
-- Created a database VIEW for reporting
-- Built interactive data visualisations using Chart.js
-- Connected database results to dynamic charts
-- Resolved SQL query issues and improved data handling
+Alongside my projects, I'm working on mathematics and software design. I also want to study AI and machine learning in more depth.
 
-This project strengthened my knowledge of relational databases, web development, debugging and teamwork.
+Space technology is another interest, particularly planetary defence and space hazard detection. I'd like to work on software and robotic systems used in scientific research or space exploration.
 
----
+## Contact
 
-### Project XX — Climate Change Educational Board Game
-
-**Status:** In Progress | University Group Project
-
-**Module:** CSC2058 — Software Engineering and Systems Development
-
-**Planned Programming Language:** Java
-
-Collaborating with five other students to design an offline, turn-based educational board game focused on climate change and environmental decision-making.
-
-The game is designed for six players and aims to combine environmental education with interactive gameplay.
-
-**My Contributions:**
-- Software Requirements Specification (SRS)
-- Functional and non-functional requirements
-- Requirements engineering
-- Use-case design
-- Game rules and project documentation
-
-**Current Stage:** Software design and documentation.
-
----
-
-### C++ MP3/MP4 Media Player
-
-**Status:** In Development
-
-**Programming Language:** C++
-
-Developing a personal multimedia application to strengthen my practical C++ programming knowledge.
-
-**Development Goals:**
-- MP3 audio playback
-- MP4 video playback
-- File handling and media management
-- Desktop user interface
-- Application testing and debugging
-
----
-
-## Upcoming Projects & Future Development
-
-### 2D Java Game
-
-**Status:** Planned
-
-Planning to develop an interactive 2D game using Java to strengthen my knowledge of object-oriented programming, application design and game development.
-
-**Technologies to Explore:** Java, JavaFX, Git
-
-**Planned Learning Areas:**
-- Object-oriented game architecture
-- Game loops and event handling
-- Collision detection
-- User interface development
-- Testing and debugging
-
----
-
-### VeloVerse 3D — Interactive Bicycle Education
-
-**Status:** Planned | Major Future Upgrade
-
-Planning to transform VeloVerse into an advanced interactive educational platform using 3D models and animations.
-
-**Planned Features:**
-- Interactive 3D bicycle models with 360° rotation
-- Clickable components with detailed explanations
-- Animated chains, gears and braking mechanisms
-- Visual exploration of bicycle materials
-- Interactive mechanical demonstrations
-- Integration with the existing VeloVerse application
-
-**Technologies to Explore:** Three.js, WebGL, Blender, JavaScript
-
----
-
-### Personal AI Assistant — J.A.R.V.I.S.-Inspired Project
-
-**Status:** Research & Planning
-
-**Target:** Develop an initial working prototype within one year.
-
-One of my biggest ambitions is to create my own intelligent AI assistant, inspired by J.A.R.V.I.S. from Iron Man.
-
-My goal is to begin with a practical AI assistant and gradually develop more advanced capabilities as my knowledge and experience grow.
-
-**Planned Capabilities:**
-- Natural language conversations
-- Real-time voice interaction
-- Voice command recognition
-- Task automation
-- Context awareness and memory
-- Computer and application integration
-- Permission-based device control
-- Security checks and safe command execution
-
-**Technologies to Explore:** Python, AI APIs, Natural Language Processing, Speech Recognition, Machine Learning
-
-**Long-Term Vision:**
-
-Explore how advanced AI assistants could be integrated with robotics, automation and intelligent physical systems.
-
----
-
-## Robotics & Engineering Interests
-
-Alongside computer science, I am exploring robotics and engineering through university activities and independent learning.
-
-**Areas of Interest:**
-- Arduino and microcontroller programming
-- Robotics and automation
-- Computer-Aided Design (CAD)
-- Electronics and embedded systems
-- AI-powered robotics
-- Mechanical and electrical engineering fundamentals
-- Intelligent machines and autonomous systems
-
-My goal is to gradually combine software engineering, artificial intelligence and physical engineering to develop intelligent robotic systems.
-
----
-
-## Current Goals
-
-- Strengthen Java, C++ and Python programming skills
-- Improve software engineering and system design knowledge
-- Learn Arduino and microcontroller programming
-- Gain practical experience with robotics, electronics and CAD
-- Develop artificial intelligence and machine learning knowledge
-- Improve mathematics and problem-solving skills
-- Build more real-world applications
-- Secure a software engineering placement in 2027
-- Build the foundation for a future career in robotics and AI engineering
-
----
-
-## Beyond Programming
-
-My ambition goes beyond software development.
-
-I'm passionate about Artificial Intelligence, Robotics, Space Technology and Advanced Engineering.
-
-My long-term goal is to contribute to technologies that advance scientific discovery, improve human safety and support future space exploration.
-
-I'm especially interested in:
-- Artificial Intelligence and Intelligent Robotics
-- Aerospace and Space Technologies
-- Advanced Engineering and Automation
-- Planetary Defence and Space Hazard Detection
-- Scientific Innovation and Emerging Technologies
-
-Inspired by the possibilities of future science and engineering, I hope to contribute to technologies that help humanity solve challenges beyond our current capabilities.
-
-I believe humanity still has so much to discover, build and achieve, and I want to contribute to that future.
-
----
-
-## Connect With Me
-
-**LinkedIn:** [Aung Khant Thaw](https://www.linkedin.com/in/aungkhantthaw/)
-
-**VeloVerse — Main Website:** [veloverse.site](https://veloverse.site)
-
-**VeloVerse — Alternative URL:** [veloverse.up.railway.app](https://veloverse.up.railway.app)
-
-**GitHub:** [NikolaTW7](https://github.com/NikolaTW7)
-
----
-
-*Learn. Build. Improve. Create.*
+- [LinkedIn](https://www.linkedin.com/in/aungkhantthaw/)
+- [GitHub](https://github.com/NikolaTW7)
+- [VeloVerse](https://veloverse.site)
