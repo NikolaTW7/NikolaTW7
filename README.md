@@ -25,9 +25,9 @@ I'm also learning Arduino programming, electronics, embedded systems and CAD.
 
 ---
 
-## 🚀 Featured Projects
+##  Projects
 
-### 🚲 VeloVerse — Bicycle Education Website
+###  VeloVerse — Bicycle Education Website
 
 **Java · Spring Boot · Thymeleaf · PostgreSQL · HTML · CSS · Railway**
 
@@ -51,7 +51,7 @@ The project has helped me gain experience with backend development, database int
 
 I'm exploring Three.js, WebGL and Blender for this next stage.
 
-### 🎵 MP3/MP4 Media Player — Windows Desktop Application
+###  MP3/MP4 Media Player — Windows Desktop Application
 
 **C++/CLI · Windows Forms · .NET Framework 4.7.2 · libmpv · Visual Studio**
 
@@ -76,7 +76,7 @@ I built and tested the Windows x64 application and documented its build process.
 
 **[View Source Code and Documentation](https://github.com/NikolaTW7/MP3-MP4-Media-Player)**
 
-### ♻️ TechRefurb — Database-Driven University Project
+###  TechRefurb — Database-Driven University Project
 
 **SQL · HTML · CSS · JavaScript · Chart.js**
 
@@ -94,7 +94,7 @@ This project developed my understanding of relational databases, reporting and c
 
 **[View TechRefurb](https://haung02.webhosting1.eeecs.qub.ac.uk/)**
 
-### 🌍 Project XX — Educational Climate Board Game
+###  Project XX — Educational Climate Board Game
 
 **Software Requirements · UML · Java (planned)**
 
@@ -115,7 +115,7 @@ The planned implementation language is Java.
 
 ---
 
-## 🔬 Current Learning and Development
+##  Current Learning and Development
 
 I'm continuing to improve my programming and software engineering skills through university modules and independent work.
 
@@ -128,7 +128,7 @@ Areas I'm focusing on include:
 
 I'm particularly interested in connecting software development with physical systems and robotics.
 
-## 💡 Future Project Ideas
+##  Future Project Ideas
 
 ### Personal AI Assistant
 
@@ -152,7 +152,7 @@ A longer-term extension of VeloVerse, using interactive bicycle models and anima
 
 ---
 
-## 🌌 Interests
+##  Interests
 
 My interests extend beyond conventional software development.
 
@@ -164,7 +164,7 @@ I'd like to develop the technical skills needed to contribute to scientific, eng
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **LinkedIn:** [Aung Khant Thaw](https://www.linkedin.com/in/aungkhantthaw/)
 - **GitHub:** [NikolaTW7](https://github.com/NikolaTW7)
