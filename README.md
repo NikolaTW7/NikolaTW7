@@ -38,33 +38,60 @@ Long term, I want to connect software with **robotics** and **intelligent system
 
 ### Used in my projects and coursework
 
-**Languages**<br />
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,py" alt="Java, C++, JavaScript, HTML, CSS, Python" />
-<img src="https://img.shields.io/badge/SQL-112240?style=flat-square" alt="SQL" />
-<img src="https://img.shields.io/badge/C%2B%2B%2FCLI-112240?style=flat-square" alt="C++/CLI" />
+#### Languages
 
-**Web, back end and data**<br />
-<img src="https://skillicons.dev/icons?i=spring,postgres" alt="Spring Boot, PostgreSQL" />
-<img src="https://img.shields.io/badge/Thymeleaf-112240?style=flat-square" alt="Thymeleaf" />
-<img src="https://img.shields.io/badge/Chart.js-112240?style=flat-square" alt="Chart.js" />
+<p>
+  <img src="https://img.shields.io/badge/Java-112240?style=for-the-badge&logo=openjdk&logoColor=22D3EE" height="28" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-112240?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" height="28" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B%2FCLI-112240?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" height="28" alt="C++/CLI" />
+  <img src="https://img.shields.io/badge/JavaScript-112240?style=for-the-badge&logo=javascript&logoColor=22D3EE" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-112240?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMjJEM0VFJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPGVsbGlwc2UgY3g9JzEyJyBjeT0nNScgcng9JzgnIHJ5PSczJy8%2BPHBhdGggZD0nTTQgNXYxNGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjUnLz48cGF0aCBkPSdNNCAxMmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zJy8%2BPC9zdmc%2B" height="28" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-112240?style=for-the-badge&logo=html5&logoColor=22D3EE" height="28" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-112240?style=for-the-badge&logo=css&logoColor=22D3EE" height="28" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-112240?style=for-the-badge&logo=python&logoColor=22D3EE" height="28" alt="Python" />
+</p>
 
-**Desktop and multimedia**<br />
-<img src="https://skillicons.dev/icons?i=dotnet,visualstudio" alt=".NET, Visual Studio" />
-<img src="https://img.shields.io/badge/Windows%20Forms-112240?style=flat-square" alt="Windows Forms" />
-<img src="https://img.shields.io/badge/libmpv-112240?style=flat-square" alt="libmpv" />
-<img src="https://img.shields.io/badge/MSBuild-112240?style=flat-square" alt="MSBuild" />
+#### Web, back end and data
 
-**Tools and deployment**<br />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,powershell" alt="Git, GitHub, VS Code, Maven, PowerShell" />
-<img src="https://img.shields.io/badge/Railway-112240?style=flat-square" alt="Railway" />
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-112240?style=for-the-badge&logo=springboot&logoColor=22D3EE" height="28" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Thymeleaf-112240?style=for-the-badge&logo=thymeleaf&logoColor=22D3EE" height="28" alt="Thymeleaf" />
+  <img src="https://img.shields.io/badge/PostgreSQL-112240?style=for-the-badge&logo=postgresql&logoColor=22D3EE" height="28" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Chart.js-112240?style=for-the-badge&logo=chartdotjs&logoColor=22D3EE" height="28" alt="Chart.js" />
+</p>
+
+#### Desktop and multimedia
+
+<p>
+  <img src="https://img.shields.io/badge/.NET%20Framework-112240?style=for-the-badge&logo=dotnet&logoColor=22D3EE" height="28" alt=".NET Framework" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-112240?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMjJEM0VFJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHJlY3QgeD0nMicgeT0nNCcgd2lkdGg9JzIwJyBoZWlnaHQ9JzE2JyByeD0nMicvPjxwYXRoIGQ9J00yIDloMjBNNSA2LjVoMU04IDYuNWgxJy8%2BPC9zdmc%2B" height="28" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/libmpv-112240?style=for-the-badge&logo=mpv&logoColor=22D3EE" height="28" alt="libmpv" />
+  <img src="https://img.shields.io/badge/MSBuild-112240?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMjJEM0VFJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTEyIDJsOSA1LTkgNS05LTUgOS01eicvPjxwYXRoIGQ9J00zIDEybDkgNSA5LTUnLz48cGF0aCBkPSdNMyAxN2w5IDUgOS01Jy8%2BPC9zdmc%2B" height="28" alt="MSBuild" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-112240?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMjJEM0VFJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTggNmwtNiA2IDYgNk0xNiA2bDYgNi02IDYnLz48L3N2Zz4%3D" height="28" alt="Visual Studio" />
+</p>
+
+#### Tools and deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-112240?style=for-the-badge&logo=git&logoColor=22D3EE" height="28" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-112240?style=for-the-badge&logo=github&logoColor=22D3EE" height="28" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-112240?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMjJEM0VFJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTggNmwtNiA2IDYgNk0xNiA2bDYgNi02IDYnLz48L3N2Zz4%3D" height="28" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Maven-112240?style=for-the-badge&logo=apachemaven&logoColor=22D3EE" height="28" alt="Maven" />
+  <img src="https://img.shields.io/badge/PowerShell-112240?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjMjJEM0VFJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHJlY3QgeD0nMicgeT0nNCcgd2lkdGg9JzIwJyBoZWlnaHQ9JzE2JyByeD0nMicvPjxwYXRoIGQ9J002IDlsNCAzLTQgM00xMiAxNWg2Jy8%2BPC9zdmc%2B" height="28" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Railway-112240?style=for-the-badge&logo=railway&logoColor=22D3EE" height="28" alt="Railway" />
+</p>
 
 ### Currently exploring
 
-<img src="https://skillicons.dev/icons?i=arduino,threejs,blender" alt="Arduino, Three.js, Blender" />
-<img src="https://img.shields.io/badge/Electronics-1A1033?style=flat-square" alt="Electronics" />
-<img src="https://img.shields.io/badge/CAD-1A1033?style=flat-square" alt="CAD" />
-<img src="https://img.shields.io/badge/Robotics-1A1033?style=flat-square" alt="Robotics" />
-<img src="https://img.shields.io/badge/AI%20systems-1A1033?style=flat-square" alt="AI systems" />
+<p>
+  <img src="https://img.shields.io/badge/Arduino-24164A?style=for-the-badge&logo=arduino&logoColor=A78BFA" height="28" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Electronics-24164A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjQTc4QkZBJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHJlY3QgeD0nNicgeT0nNicgd2lkdGg9JzEyJyBoZWlnaHQ9JzEyJyByeD0nMScvPjxyZWN0IHg9JzkuNScgeT0nOS41JyB3aWR0aD0nNScgaGVpZ2h0PSc1Jy8%2BPHBhdGggZD0nTTkgMnY0TTE1IDJ2NE05IDE4djRNMTUgMTh2NE0yIDloNE0yIDE1aDRNMTggOWg0TTE4IDE1aDQnLz48L3N2Zz4%3D" height="28" alt="Electronics" />
+  <img src="https://img.shields.io/badge/CAD-24164A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjQTc4QkZBJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHBhdGggZD0nTTEyIDJsOSA1djEwbC05IDUtOS01Vjd6Jy8%2BPHBhdGggZD0nTTMgN2w5IDUgOS01TTEyIDEydjEwJy8%2BPC9zdmc%2B" height="28" alt="CAD" />
+  <img src="https://img.shields.io/badge/Robotics-24164A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjQTc4QkZBJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPHJlY3QgeD0nNCcgeT0nOCcgd2lkdGg9JzE2JyBoZWlnaHQ9JzEyJyByeD0nMicvPjxwYXRoIGQ9J00xMiA0djRNMiAxM3YzTTIyIDEzdjMnLz48Y2lyY2xlIGN4PScxMicgY3k9JzMnIHI9JzEnLz48Y2lyY2xlIGN4PSc5JyBjeT0nMTQnIHI9JzEuNScvPjxjaXJjbGUgY3g9JzE1JyBjeT0nMTQnIHI9JzEuNScvPjwvc3ZnPg%3D%3D" height="28" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Three.js-24164A?style=for-the-badge&logo=threedotjs&logoColor=A78BFA" height="28" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Blender-24164A?style=for-the-badge&logo=blender&logoColor=A78BFA" height="28" alt="Blender" />
+  <img src="https://img.shields.io/badge/AI%20systems-24164A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjQTc4QkZBJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc%2BPGNpcmNsZSBjeD0nNScgY3k9JzYnIHI9JzInLz48Y2lyY2xlIGN4PSc1JyBjeT0nMTgnIHI9JzInLz48Y2lyY2xlIGN4PScxMicgY3k9JzEyJyByPScyJy8%2BPGNpcmNsZSBjeD0nMTknIGN5PSc2JyByPScyJy8%2BPGNpcmNsZSBjeD0nMTknIGN5PScxOCcgcj0nMicvPjxwYXRoIGQ9J003IDdsMy41IDMuNU03IDE3bDMuNS0zLjVNMTMuNSAxMC41TDE3IDdNMTMuNSAxMy41TDE3IDE3Jy8%2BPC9zdmc%2B" height="28" alt="AI systems" />
+</p>
 
 <sub>Exploring means learning and experimenting, not yet used in a completed project.</sub>
 
