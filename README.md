@@ -1,72 +1,173 @@
-# Hi, I'm Aung Khant Thaw (Nikola)
+# Hi, I'm Aung Khant Thaw (Nikola) 👋
 
-I'm a second-year BSc Computer Science student at Queen's University Belfast, looking for a software engineering placement in 2027.
+I'm a second-year **BSc Computer Science student at Queen's University Belfast**, seeking a **software engineering placement in 2027**.
 
-I build web applications and am learning about robotics and AI.
+I enjoy building software that helps me understand how systems work, from full-stack web applications to Windows desktop software. I'm particularly interested in software engineering, artificial intelligence, robotics and the technologies used in scientific research.
 
-## Technical skills
+Outside university coursework, I work on independent projects to gain practical experience in designing, implementing, testing and documenting software.
 
-![My skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode,arduino)
+## 🛠️ Technical Skills
 
-- Languages: Java, C++, Python, JavaScript and SQL
-- Web development: HTML, CSS, Spring Boot, Thymeleaf and Chart.js
-- Database: PostgreSQL
-- Tools: Git, GitHub, VS Code and Railway
+![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,spring,postgres,git,github,vscode,visualstudio,arduino)
 
-My current studies include object-oriented programming and software testing. I'm also learning Arduino programming, electronics and CAD.
+| Category | Technologies |
+|---|---|
+| **Programming** | Java, C++, C++/CLI, Python, JavaScript, SQL |
+| **Web Development** | HTML, CSS, Spring Boot, Thymeleaf, Chart.js |
+| **Databases** | PostgreSQL, relational database design |
+| **Desktop Development** | Windows Forms, .NET Framework, libmpv |
+| **Development Tools** | Visual Studio, VS Code, Git, GitHub, Maven, MSBuild, PowerShell |
+| **Deployment** | Railway |
+| **Software Engineering** | Object-oriented programming, requirements engineering, UML, system architecture, Git version control, software testing |
+| **Documentation & Design** | diagrams.net (draw.io), ERD, use case, class, activity and sequence diagrams |
 
-## VeloVerse
+I'm also learning Arduino programming, electronics, embedded systems and CAD.
 
-I independently built VeloVerse, a website for learning about bicycles. Users can browse bicycle types, brands and models, read about components and materials, and compare models.
+---
 
-The application uses Java, Spring Boot, Thymeleaf, PostgreSQL, HTML and CSS. It has a responsive layout and 84 passing automated tests. It's hosted on Railway, and development is ongoing.
+## 🚀 Featured Projects
 
-[Visit VeloVerse](https://veloverse.site) · [Alternative address](https://veloverse.up.railway.app)
+### 🚲 VeloVerse — Bicycle Education Website
 
-I plan to add 3D models that users can rotate and inspect. Selecting a component would explain how it works, with animations for mechanisms such as gears and brakes. I'm considering Three.js, WebGL and Blender for this upgrade.
+**Java · Spring Boot · Thymeleaf · PostgreSQL · HTML · CSS · Railway**
 
-## TechRefurb
+VeloVerse is an independently developed website designed to make information about bicycles easier to explore.
 
-Our team of five built TechRefurb for CSC1034: Data Driven Systems. It's a completed university project for managing donated technology and equipment allocation.
+It brings together bicycle types, components, materials, brands and models in one place.
 
-I wrote three SQL reports using JOINs, GROUP BY and aggregate functions, and created a database view for reporting. I also connected database results to interactive Chart.js charts and fixed SQL query and data-handling issues.
+**What I've implemented:**
+- Bicycle type, component and material information
+- Brand and model browsing and comparison
+- PostgreSQL-backed application data
+- Responsive web layouts
+- 84 passing automated tests
+- Public deployment using Railway
 
-The project uses SQL, HTML, CSS, JavaScript and Chart.js.
+The project has helped me gain experience with backend development, database integration, application testing and deployment.
 
-[View TechRefurb](https://haung02.webhosting1.eeecs.qub.ac.uk/)
+**[Visit VeloVerse](https://veloverse.site)** · **[GitHub Repository](https://github.com/NikolaTW7/veloverse)**
 
-## Project XX
+**Future development:** I'm planning an interactive 3D version where visitors can rotate bicycle models, select individual components and explore animations showing how mechanisms such as gears and brakes work.
 
-I'm working with five other students on an educational board game about climate change for CSC2058: Software Engineering and Systems Development.
+I'm exploring Three.js, WebGL and Blender for this next stage.
 
-We're designing an offline, turn-based game for six players. The project is currently at the design and documentation stage, with Java as the planned implementation language.
+### 🎵 MP3/MP4 Media Player — Windows Desktop Application
 
-My contributions cover the software requirements specification, functional and non-functional requirements, use cases, game rules and project documentation.
+**C++/CLI · Windows Forms · .NET Framework 4.7.2 · libmpv · Visual Studio**
 
-## C++ media player
+A Windows desktop media player for local MP3 audio and MP4 video playback.
 
-I'm developing a desktop media player to practise C++. Planned features include MP3 audio and MP4 video playback, file management and a desktop interface.
+Developing this application gave me experience working with a native multimedia library, building Windows interfaces and handling application state and playback events.
 
-The project is still in development, with testing and debugging included in the planned work.
+**Implemented features:**
+- MP3 and MP4 playback
+- Playlist management and automatic playback progression
+- Play, pause, stop, previous and next controls
+- Timeline seeking and volume adjustment
+- Shuffle and repeat modes (Off, All and One)
+- Vocal reduction for karaoke using libmpv's FFmpeg audio filtering
+- Fullscreen video with custom floating playback controls
+- Automatic control-bar and cursor hiding
+- Keyboard shortcuts for common playback actions
 
-## Other project plans
+The project also includes software requirements documentation, system architecture, UML diagrams and a manual testing checklist.
 
-I'd like to build a 2D Java game to practise game loops, event handling, collision detection and object-oriented design. JavaFX is one option I'm considering for the interface.
+I built and tested the Windows x64 application and documented its build process. The repository currently provides source code and documentation rather than a downloadable executable.
 
-I'm also researching a personal AI assistant inspired by J.A.R.V.I.S. from Iron Man. My target is an initial working prototype within a year, using Python and AI APIs.
+**[View Source Code and Documentation](https://github.com/NikolaTW7/MP3-MP4-Media-Player)**
 
-Planned capabilities include text and voice conversations, task automation, memory and application integration. I want permission checks before the assistant controls devices, along with checks on commands before execution. Longer term, I'd like to explore its use with robotic systems.
+### ♻️ TechRefurb — Database-Driven University Project
 
-## Interests and learning
+**SQL · HTML · CSS · JavaScript · Chart.js**
 
-I'm exploring robotics through university activities and independent study. I'm learning about microcontrollers and embedded systems, and want more practical experience with electronics and CAD.
+Developed as a five-person team project for **CSC1034: Data Driven Systems**.
 
-Alongside my projects, I'm working on mathematics and software design. I also want to study AI and machine learning in more depth.
+TechRefurb supports the management of donated technology and equipment allocation.
 
-Space technology is another interest, particularly planetary defence and space hazard detection. I'd like to work on software and robotic systems used in scientific research or space exploration.
+**My contributions:**
+- Developed three SQL reports using JOINs, GROUP BY and aggregate functions
+- Created a database view for reporting
+- Connected database queries to interactive Chart.js visualisations
+- Debugged SQL queries and data-handling issues
 
-## Contact
+This project developed my understanding of relational databases, reporting and collaborative software development.
 
-- [LinkedIn](https://www.linkedin.com/in/aungkhantthaw/)
-- [GitHub](https://github.com/NikolaTW7)
-- [VeloVerse](https://veloverse.site)
+**[View TechRefurb](https://haung02.webhosting1.eeecs.qub.ac.uk/)**
+
+### 🌍 Project XX — Educational Climate Board Game
+
+**Software Requirements · UML · Java (planned)**
+
+An ongoing six-person university group project for **CSC2058: Software Engineering and Systems Development**.
+
+We're designing an offline, turn-based educational board game about climate change.
+
+The project currently focuses on gameplay design, requirements and system documentation before implementation.
+
+**My work includes:**
+- Software Requirements Specification (SRS)
+- Functional and non-functional requirements
+- Use case identification and modelling
+- Defining core game rules and system behaviour
+- Planning UML diagrams and software architecture
+
+The planned implementation language is Java.
+
+---
+
+## 🔬 Current Learning and Development
+
+I'm continuing to improve my programming and software engineering skills through university modules and independent work.
+
+Areas I'm focusing on include:
+
+- **C++ and Java:** Data structures, dynamic memory, object-oriented design and debugging
+- **Software engineering:** Requirements, UML modelling, architecture and testing
+- **Robotics:** Microcontrollers, Arduino, electronics and CAD
+- **AI and machine learning:** Python, mathematics and foundational AI concepts
+
+I'm particularly interested in connecting software development with physical systems and robotics.
+
+## 💡 Future Project Ideas
+
+### Personal AI Assistant
+
+I'm researching a personal AI assistant inspired by J.A.R.V.I.S. from *Iron Man*.
+
+My initial goal is a prototype that supports natural-language conversation, voice interaction and task automation.
+
+Future capabilities I'm considering include persistent memory, application integration, device permissions and security checks before executing commands.
+
+I'm interested in how such an assistant could eventually interact with robotic systems.
+
+### 2D Java Game
+
+I'd also like to develop a 2D Java game to strengthen my understanding of game loops, event handling, collision detection and object-oriented design.
+
+JavaFX is one possible interface technology.
+
+### Interactive 3D VeloVerse
+
+A longer-term extension of VeloVerse, using interactive bicycle models and animated explanations of mechanical components.
+
+---
+
+## 🌌 Interests
+
+My interests extend beyond conventional software development.
+
+I'm particularly interested in **artificial intelligence, robotics, space technology and advanced engineering**.
+
+One area that fascinates me is planetary defence: how intelligent software, sensors and robotic systems could help detect and respond to potential hazards in space.
+
+I'd like to develop the technical skills needed to contribute to scientific, engineering and robotic systems in the future.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Aung Khant Thaw](https://www.linkedin.com/in/aungkhantthaw/)
+- **GitHub:** [NikolaTW7](https://github.com/NikolaTW7)
+- **VeloVerse:** [veloverse.site](https://veloverse.site)
+
+I'm currently looking for a **2027 software engineering placement** where I can contribute to real projects, learn from experienced engineers and continue developing my technical skills.
