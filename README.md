@@ -1,258 +1,203 @@
-```html
 <div align="center">
 
-# N I K O L A
+<img src="./assets/hero.svg" width="100%" alt="Aung Khant Thaw (Nikola): software engineering, robotics and AI. BSc Computer Science at Queen's University Belfast, seeking a 2027 software engineering placement." />
 
-### `SOFTWARE ENGINEERING // ROBOTICS // ARTIFICIAL INTELLIGENCE`
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&height=55&lines=Hello%2C+World.+I'm+Aung+Khant+Thaw.;Computer+Science+Student+%40+QUB;Building+Software+%26+Exploring+Robotics;Interested+in+AI+and+Space+Technology" alt="Animated introduction"/>
+<a href="https://www.linkedin.com/in/aungkhantthaw/"><img src="https://img.shields.io/badge/LinkedIn-Aung%20Khant%20Thaw-0A66C2?style=for-the-badge" alt="LinkedIn: Aung Khant Thaw" /></a>
+<a href="https://veloverse.site"><img src="https://img.shields.io/badge/VeloVerse-Live%20site-0E7490?style=for-the-badge" alt="VeloVerse live site" /></a>
+<a href="https://github.com/NikolaTW7?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/LOCATION-BELFAST%2C%20UK-101820?style=for-the-badge&labelColor=07131D&color=007FA3"/>
-<img src="https://img.shields.io/badge/EDUCATION-BSc%20COMPUTER%20SCIENCE-101820?style=for-the-badge&labelColor=07131D&color=007FA3"/>
-<img src="https://img.shields.io/badge/2027-PLACEMENT%20SEEKER-00AACC?style=for-the-badge&labelColor=07131D"/>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/VELOVERSE-LIVE%20PROJECT-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://veloverse.site)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungkhantthaw/)
-[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikolaTW7)
+<img src="https://img.shields.io/badge/Belfast-United%20Kingdom-0B1426?style=flat-square&labelColor=112240" alt="Based in Belfast, United Kingdom" />
+<img src="https://img.shields.io/badge/BSc-Computer%20Science%20%C2%B7%20Year%202-0B1426?style=flat-square&labelColor=112240" alt="BSc Computer Science, second year" />
+<img src="https://img.shields.io/badge/Open%20to-2027%20placements-0E7490?style=flat-square&labelColor=112240" alt="Open to 2027 software engineering placements" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## `01 // ABOUT ME`
+## ◈ 01 · About
+
+I'm **Aung Khant Thaw** (Nikola), a second-year **BSc Computer Science** student at **Queen's University Belfast**, looking for a **2027 software engineering placement**.
+
+I learn best by building complete projects: a live full-stack web application, a Windows desktop media player and team database and design projects. Along the way I've worked on requirements, UML design, testing and documentation, not only code.
+
+Long term, I want to connect software with **robotics** and **intelligent systems**.
 
 ```text
-> SYSTEM PROFILE
-
-  Name       : Aung Khant Thaw
-  Alias      : Nikola
-  University : Queen's University Belfast
-  Degree     : BSc Computer Science
-  Year       : Second Year
-  Location   : Belfast, United Kingdom
-
-  Current Objective:
-  Secure a software engineering placement in 2027.
-
-  Long-Term Interests:
-  Artificial Intelligence | Robotics | Space Technology
+> profile --summary
+  name        Aung Khant Thaw (Nikola)
+  study       BSc Computer Science, Queen's University Belfast (Year 2)
+  objective   2027 software engineering placement
+  interests   Software engineering · Robotics · Artificial intelligence · Space technology
 ```
 
-I'm a second-year Computer Science student who enjoys understanding how software works by designing and building applications.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-My experience includes full-stack web development, relational databases, Windows desktop applications, C++ programming, software requirements and testing.
+## ◈ 02 · Technology Stack
 
-I am particularly interested in the intersection of **software, intelligent systems and physical engineering**.
+### Used in my projects and coursework
 
----
+**Languages**<br />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,py" alt="Java, C++, JavaScript, HTML, CSS, Python" />
+<img src="https://img.shields.io/badge/SQL-112240?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/C%2B%2B%2FCLI-112240?style=flat-square" alt="C++/CLI" />
 
-## `02 // TECHNOLOGY STACK`
+**Web, back end and data**<br />
+<img src="https://skillicons.dev/icons?i=spring,postgres" alt="Spring Boot, PostgreSQL" />
+<img src="https://img.shields.io/badge/Thymeleaf-112240?style=flat-square" alt="Thymeleaf" />
+<img src="https://img.shields.io/badge/Chart.js-112240?style=flat-square" alt="Chart.js" />
 
-<div align="center">
+**Desktop and multimedia**<br />
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio" alt=".NET, Visual Studio" />
+<img src="https://img.shields.io/badge/Windows%20Forms-112240?style=flat-square" alt="Windows Forms" />
+<img src="https://img.shields.io/badge/libmpv-112240?style=flat-square" alt="libmpv" />
+<img src="https://img.shields.io/badge/MSBuild-112240?style=flat-square" alt="MSBuild" />
 
-### Programming Languages
+**Tools and deployment**<br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,powershell" alt="Git, GitHub, VS Code, Maven, PowerShell" />
+<img src="https://img.shields.io/badge/Railway-112240?style=flat-square" alt="Railway" />
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark" alt="Programming languages"/>
+### Currently exploring
 
-`Java` · `C++` · `C++/CLI` · `Python` · `JavaScript` · `SQL`
+<img src="https://skillicons.dev/icons?i=arduino,threejs,blender" alt="Arduino, Three.js, Blender" />
+<img src="https://img.shields.io/badge/Electronics-1A1033?style=flat-square" alt="Electronics" />
+<img src="https://img.shields.io/badge/CAD-1A1033?style=flat-square" alt="CAD" />
+<img src="https://img.shields.io/badge/Robotics-1A1033?style=flat-square" alt="Robotics" />
+<img src="https://img.shields.io/badge/AI%20systems-1A1033?style=flat-square" alt="AI systems" />
 
-### Web Development & Databases
+<sub>Exploring means learning and experimenting, not yet used in a completed project.</sub>
 
-<img src="https://skillicons.dev/icons?i=spring,html,css,postgres&theme=dark" alt="Web and database technologies"/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-`Spring Boot` · `Thymeleaf` · `HTML5` · `CSS3` · `PostgreSQL` · `Chart.js`
+## ◈ 03 · Featured Projects
 
-### Desktop Development & Multimedia
+<img src="./assets/project-veloverse.svg" width="100%" alt="Project 01: VeloVerse, full-stack bicycle education website. Status: live." />
 
-<img src="https://skillicons.dev/icons?i=cpp,dotnet,visualstudio&theme=dark" alt="Desktop development technologies"/>
+A live bicycle education website covering bicycle types, components, materials, brands and models.
 
-`Windows Forms` · `.NET Framework` · `libmpv` · `FFmpeg Integration`
+<img src="https://img.shields.io/badge/Java-112240?style=flat-square" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-112240?style=flat-square" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Thymeleaf-112240?style=flat-square" alt="Thymeleaf" />
+<img src="https://img.shields.io/badge/PostgreSQL-112240?style=flat-square" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-112240?style=flat-square" alt="HTML and CSS" />
+<img src="https://img.shields.io/badge/Railway-112240?style=flat-square" alt="Railway" />
 
-### Tools & Development Environment
+- Structured bicycle information and model comparisons backed by a PostgreSQL database
+- Server-rendered pages with Spring Boot and Thymeleaf, deployed on Railway
+- **84 passing automated tests**
+- Next (planned): interactive 3D bicycle models and animated explanations of components
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,maven,powershell&theme=dark" alt="Developer tools"/>
+**[Visit veloverse.site](https://veloverse.site)** · **[Source code](https://github.com/NikolaTW7/veloverse)**
 
-`Git` · `GitHub` · `Visual Studio` · `VS Code` · `MSBuild` · `Maven` · `PowerShell` · `Railway`
+<br />
 
-### Currently Exploring
+<img src="./assets/project-media-player.svg" width="100%" alt="Project 02: MP3/MP4 Media Player, Windows desktop application in C++/CLI with libmpv. Status: source public." />
 
-<img src="https://skillicons.dev/icons?i=arduino,blender,threejs&theme=dark" alt="Technologies being explored"/>
+A completed Windows desktop media player built with C++/CLI, Windows Forms and libmpv.
 
-`Arduino` · `Electronics` · `CAD` · `Robotics` · `Three.js` · `Blender`
+<img src="https://img.shields.io/badge/C%2B%2B%2FCLI-112240?style=flat-square" alt="C++/CLI" />
+<img src="https://img.shields.io/badge/Windows%20Forms-112240?style=flat-square" alt="Windows Forms" />
+<img src="https://img.shields.io/badge/.NET%20Framework%204.7.2-112240?style=flat-square" alt=".NET Framework 4.7.2" />
+<img src="https://img.shields.io/badge/libmpv-112240?style=flat-square" alt="libmpv" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20%2B%20MSBuild-112240?style=flat-square" alt="Visual Studio and MSBuild" />
 
-</div>
+- MP3 and MP4 playback with playlists, seeking, shuffle and repeat
+- Karaoke vocal reduction using an FFmpeg audio filter
+- Full-screen mode with floating controls, automatic cursor hiding and keyboard shortcuts
+- Engineered with requirements documentation, system architecture, UML diagrams and a manual test checklist
 
----
+The source code and documentation are public. A downloadable executable is not published.
 
-## `03 // FEATURED PROJECTS`
+**[Source code and documentation](https://github.com/NikolaTW7/MP3-MP4-Media-Player)**
 
-### `[01] VELOVERSE`
+<br />
 
-**Full-Stack Web Application | Deployed**
+<img src="./assets/project-techrefurb.svg" width="100%" alt="Project 03: TechRefurb, five-person university database project. Status: completed." />
 
-> A bicycle education platform bringing together bicycle types, components, materials, brands and models.
+A database-driven web application for managing donated technology and equipment allocation, built by a team of five.
 
-**Technology:** Java · Spring Boot · Thymeleaf · PostgreSQL · HTML · CSS · Railway
+<img src="https://img.shields.io/badge/SQL-112240?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML-112240?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-112240?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-112240?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Chart.js-112240?style=flat-square" alt="Chart.js" />
 
-**Highlights**
-- Structured bicycle information and model comparisons
-- Relational database integration
-- Responsive web interface
-- 84 passing automated tests
-- Public deployment
+### My contributions
 
-**Future direction:** Interactive 3D bicycle models, selectable mechanical components and animated explanations of gears, brakes and other systems.
+- SQL reporting queries using joins, grouping and aggregate functions
+- A database view to support the reports
+- Interactive Chart.js charts built from the query results
 
-[![Live](https://img.shields.io/badge/LIVE-WEBSITE-00BFA6?style=flat-square&logo=googlechrome&logoColor=white)](https://veloverse.site)
+**[View the project site](https://haung02.webhosting1.eeecs.qub.ac.uk/)**
 
-### `[02] MP3 / MP4 MEDIA PLAYER`
+<br />
 
-**Windows Desktop Application | Source Available**
+<img src="./assets/project-xx.svg" width="100%" alt="Project 04: Project XX, six-person climate-change educational board game. Status: in design." />
 
-> A desktop multimedia player developed with C++/CLI, Windows Forms and libmpv.
+An ongoing six-person project: a turn-based educational board game about climate change.
 
-**Technology:** C++/CLI · Windows Forms · .NET Framework · libmpv · Visual Studio
+<img src="https://img.shields.io/badge/Requirements-1A1033?style=flat-square" alt="Requirements" />
+<img src="https://img.shields.io/badge/UML-1A1033?style=flat-square" alt="UML" />
+<img src="https://img.shields.io/badge/Architecture-1A1033?style=flat-square" alt="Architecture" />
+<img src="https://img.shields.io/badge/Java%20(planned)-1A1033?style=flat-square" alt="Java, planned" />
 
-**Implemented Features**
-- MP3 audio and MP4 video playback
-- Playlist management and playback navigation
-- Play, pause, stop, seek and volume controls
-- Shuffle and repeat modes
-- Vocal reduction for karaoke
-- Custom fullscreen floating controls
-- Keyboard shortcuts and automatic cursor hiding
+- Current stage: software requirements, use cases, UML modelling, system architecture and gameplay design
+- Implementation in Java is planned for a later stage
 
-**Engineering Work**
-- Requirements documentation
-- UML class, use case, activity and sequence diagrams
-- System architecture
-- Manual testing
-- Git version control and documentation
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-The Windows x64 application has been built and tested. The public repository contains its source code and documentation; a downloadable executable is not currently published.
-
-[![Repository](https://img.shields.io/badge/GITHUB-VIEW%20SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NikolaTW7/MP3-MP4-Media-Player)
-
-### `[03] TECHREFURB`
-
-**University Team Project | Completed**
-
-> A database-driven application for managing donated technology and equipment allocation.
-
-**Technology:** SQL · HTML · CSS · JavaScript · Chart.js
-
-**My Contributions**
-- Developed three SQL reporting queries
-- Used JOINs, GROUP BY and aggregate functions
-- Created a database view
-- Integrated database results with interactive Chart.js charts
-- Resolved SQL and data-handling issues
-
-[![Project](https://img.shields.io/badge/PROJECT-VIEW%20APPLICATION-007FA3?style=flat-square)](https://haung02.webhosting1.eeecs.qub.ac.uk/)
-
-### `[04] PROJECT XX — CLIMATE EDUCATION GAME`
-
-**University Software Engineering Project | Design Stage**
-
-An offline, turn-based educational board game about climate change, designed by a six-person team.
-
-**Planned implementation:** Java
-
-**Current work**
-- Software Requirements Specification
-- Functional and non-functional requirements
-- Use cases and gameplay rules
-- UML modelling and system architecture
-- Planning for implementation and testing
-
----
-
-## `04 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NikolaTW7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaTW7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most used GitHub languages"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikolaTW7&bg_color=0d1117&color=00d9ff&line=00a6cc&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## `05 // ENGINEERING & LEARNING`
+## ◈ 04 · Engineering Interests and Robotics
 
 ```text
-CURRENT FOCUS
-──────────────────────────────────
-[+] C++ and Object-Oriented Programming
-[+] Software Design and Architecture
-[+] Testing and Debugging
-[+] Java Backend Development
-[+] Relational Database Systems
-
-EXPLORING
-──────────────────────────────────
-[>] Arduino and Microcontrollers
-[>] Electronics and Embedded Systems
-[>] Computer-Aided Design (CAD)
-[>] Artificial Intelligence
-[>] Robotics
+CURRENT FOCUS                         EXPLORING
+------------------------------        ------------------------------
+[+] C++ and object-oriented design    [>] Arduino and microcontrollers
+[+] Software design and architecture  [>] Electronics and sensors
+[+] Testing and debugging             [>] CAD for mechanical parts
+[+] Java back-end development         [>] Robotics
+[+] Relational databases              [>] Artificial intelligence
 ```
 
-I am continuing to strengthen my programming fundamentals while gaining practical experience through independent projects and university coursework.
+### Future projects
 
-My broader goal is to connect software development with robotics, intelligent systems and advanced engineering.
-
----
-
-## `06 // FUTURE PROJECTS`
+These are planned directions, not finished work.
 
 | Project | Direction |
-|---|---|
-| **Personal AI Assistant** | Voice and text interaction, memory, AI APIs, task automation and permission-controlled integrations |
-| **3D VeloVerse** | Interactive bicycle models, mechanical animations and component explanations |
-| **2D Java Game** | Game loops, event handling, collisions and object-oriented design |
-| **Robotics Experiments** | Arduino, electronics, sensors, CAD and embedded software |
+| --- | --- |
+| Personal AI assistant | Voice and text interaction, memory, AI APIs and permission-controlled task automation |
+| 3D VeloVerse | Interactive bicycle models and animated mechanical components |
+| 2D Java game | Game loop, event handling, collisions and object-oriented design |
+| Robotics experiments | Arduino, electronics, sensors, CAD and embedded software |
 
-These are planned projects and research directions, not completed implementations.
+I'm especially interested in autonomous systems and sensor integration, and in how intelligent and robotic systems can support scientific research and space exploration.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## `07 // BEYOND SOFTWARE`
-
-### ARTIFICIAL INTELLIGENCE × ROBOTICS × SPACE TECHNOLOGY
-
-I'm fascinated by the possibility of developing intelligent and robotic systems for scientific research, space exploration and planetary defence.
-
-Areas I'm interested in include autonomous systems, sensor integration, hazard detection and software that helps humans understand and interact with complex machines.
-
-I want to build the mathematics, computer science and engineering knowledge needed to contribute to these fields.
-
----
-
-## `08 // CONNECT`
+## ◈ 05 · GitHub Activity
 
 <div align="center">
 
-**OPEN TO SOFTWARE ENGINEERING PLACEMENT OPPORTUNITIES — 2027**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NikolaTW7&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B1426&title_color=22D3EE&text_color=C9D7EE&icon_color=3B82F6" alt="GitHub statistics for NikolaTW7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaTW7&layout=compact&langs_count=6&hide_border=true&bg_color=0B1426&title_color=22D3EE&text_color=C9D7EE" alt="Top languages for NikolaTW7" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aung%20Khant%20Thaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aungkhantthaw/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-NikolaTW7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikolaTW7)
-
-[![VeloVerse](https://img.shields.io/badge/Website-VeloVerse-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://veloverse.site)
-
-<br/>
-
-`BUILD • LEARN • EXPERIMENT • IMPROVE`
+<img src="https://streak-stats.demolab.com/?user=NikolaTW7&hide_border=true&background=0B1426&stroke=1E3A5F&ring=22D3EE&fire=3B82F6&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=22D3EE&sideLabels=9FB7D9&dates=6B86A8" alt="GitHub contribution streak for NikolaTW7" />
 
 </div>
-```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ◈ 06 · Connect
+
+<div align="center">
+
+**Open to software engineering placement opportunities for 2027.**
+
+<a href="https://www.linkedin.com/in/aungkhantthaw/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/NikolaTW7"><img src="https://img.shields.io/badge/GitHub-NikolaTW7-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: NikolaTW7" /></a>
+<a href="https://veloverse.site"><img src="https://img.shields.io/badge/Project-VeloVerse-0E7490?style=for-the-badge" alt="VeloVerse" /></a>
+<a href="https://github.com/NikolaTW7/MP3-MP4-Media-Player"><img src="https://img.shields.io/badge/Project-Media%20Player-1D4ED8?style=for-the-badge" alt="MP3/MP4 Media Player" /></a>
+
+<img src="./assets/footer.svg" width="100%" alt="Build, learn, experiment, improve" />
+
+</div>
